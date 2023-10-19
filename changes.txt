@@ -1,1 +1,5 @@
 List of changes to the app!
+
+sonar.projectKey=flak-app-scan
+
+sqa_12de39b92ef806a4769ce568f3a8dde1eb70fdc1
